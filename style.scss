@@ -18,7 +18,7 @@ body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 0.9rem;
-    min-height: 100vh;
+    height: 100vh;
     @include sm {
         font-size: 1rem;
     }
